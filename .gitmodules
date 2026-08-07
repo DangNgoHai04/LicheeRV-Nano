@@ -1,0 +1,80 @@
+[submodule "build"]
+	path = build
+	url = https://github.com/DangNgoHai04/build.git
+	branch = licheerv-nano
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/DangNgoHai04/buildroot.git
+	branch = licheerv-nano
+[submodule "cnpy"]
+	path = cnpy
+	url = https://github.com/DangNgoHai04/cnpy.git
+	branch = tpu
+[submodule "cvibuilder"]
+	path = cvibuilder
+	url = https://github.com/DangNgoHai04/cvibuilder.git
+	branch = licheerv-nano
+[submodule "cvikernel"]
+	path = cvikernel
+	url = https://github.com/DangNgoHai04/cvikernel.git
+	branch = licheerv-nano
+[submodule "cvimath"]
+	path = cvimath
+	url = https://github.com/DangNgoHai04/cvimath.git
+	branch = licheerv-nano
+[submodule "cvi_rtsp"]
+	path = cvi_rtsp
+	url = https://github.com/DangNgoHai04/cvi_rtsp.git
+	branch = licheerv-nano
+[submodule "cviruntime"]
+	path = cviruntime
+	url = https://github.com/DangNgoHai04/cviruntime.git
+	branch = licheerv-nano
+[submodule "flatbuffers"]
+	path = flatbuffers
+	url = https://github.com/DangNgoHai04/flatbuffers.git
+	branch = 3rd
+[submodule "freertos"]
+	path = freertos
+	url = https://github.com/DangNgoHai04/freertos.git
+	branch = licheerv-nano
+[submodule "fsbl"]
+	path = fsbl
+	url = https://github.com/DangNgoHai04/fsbl.git
+	branch = licheerv-nano
+[submodule "isp_tuning"]
+	path = isp_tuning
+	url = https://github.com/DangNgoHai04/isp_tuning.git
+	branch = licheerv-nano
+[submodule "ive"]
+	path = ive
+	url = https://github.com/DangNgoHai04/ive.git
+	branch = licheerv-nano
+[submodule "middleware"]
+	path = middleware
+	url = https://github.com/DangNgoHai04/middleware.git
+	branch = licheervnano
+[submodule "opensbi"]
+	path = opensbi
+	url = https://github.com/DangNgoHai04/opensbi.git
+	branch = licheerv-nano
+[submodule "osdrv"]
+	path = osdrv
+	url = https://github.com/DangNgoHai04/osdrv.git
+	branch = licheerv-nano
+[submodule "ramdisk"]
+	path = ramdisk
+	url = https://github.com/DangNgoHai04/ramdisk.git
+	branch = licheerv-nano
+[submodule "tdl_sdk"]
+	path = tdl_sdk
+	url = https://github.com/DangNgoHai04/tdl_sdk.git
+	branch = licheervnano
+[submodule "linux_5.10"]
+	path = linux_5.10
+	url = https://github.com/DangNgoHai04/linux.git
+	branch = licheerv-nano
+[submodule "u-boot-2021.10"]
+	path = u-boot-2021.10
+	url = https://github.com/DangNgoHai04/u-boot-2021.10.git
+	branch = licheerv-nano
