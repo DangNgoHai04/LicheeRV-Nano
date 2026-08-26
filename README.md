@@ -58,12 +58,12 @@ git submodule update --init --recursive
 
 
 ## Main Submodules
-buildroot = Core build framework, automates building the embedded linux os
-fsbl = First Stage Boot Loader
-linux_5.10 = The Linux kernel source
-middleware = Sophgo's media processing SDK for camera/AI pipelines
-opensbi = OpenSBI - standard RISC-V 
-osdrv = Sophgo-specific OS drivers/modules not included in the mainline kernel
-tdl_sdk = AI inference SDK for running models on the SG2002's built-in NPU
-u-boot-2021.10 = loads the kernel/rootfs
+- buildroot = Core build framework, automates building the embedded linux os
+- fsbl = First Stage Boot Loader
+- linux_5.10 = The Linux kernel source
+- middleware = Sophgo's media processing SDK for camera/AI pipelines
+- opensbi = OpenSBI - standard RISC-V 
+- osdrv = Sophgo-specific OS drivers/modules not included in the mainline kernel
+- tdl_sdk = AI inference SDK for running models on the SG2002's built-in NPU
+- u-boot-2021.10 = loads the kernel/rootfs
 
