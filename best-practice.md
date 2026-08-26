@@ -1,9 +1,6 @@
-# Todo
-- [ ] Download and mount the image to modify it (see https://unix.stackexchange.com/questions/316401/how-to-mount-a-disk-image-from-the-command-line)
+
 
 # Best practice
-
-Using the  LicheeSG-Nano-Build project with a LicheeRV Nano board opens up some interesting possibilities. However, the documentation may not be sufficient for several use cases. This document contains best practise solutions for some of them, as well as noteworthy information for getting started.
 
 ## References
 
@@ -13,14 +10,8 @@ The information in this document has been collected via the following references
   - It may also be worth translating the chinese docs, these contain more information
 - Article with a huge amount of information about hardware: https://medium.com/@ret7020/licheerv-nano-ai-board-first-steps-d05e7999dd29
   - Repository with some more info https://github.com/ret7020/LicheeRVNano?tab=readme-ov-file
-- Discussions in the following issues
-  - https://github.com/scpcom/LicheeSG-Nano-Build/issues/19
-- 8051 core simple run example
-  - https://github.com/ret7020/sg2002-8051
 
 ## Hardware introduction
-
-The hardware is pretty powerful for an embedded device, much more than the usual ESP32 boards while still maintaining a pretty small form factor. More details on the hardware can be found here:
 
 - https://wiki.sipeed.com/hardware/en/lichee/RV_Nano/1_intro.html
 
