@@ -2,7 +2,6 @@
 
 Embedded Linux (Buildroot) build system for the **LicheeRV Nano** board (Sophgo SG2002/CV181x, RISC-V architecture), forked and customized for personal/company projects on this platform — including an AI camera pipeline, RTSP streaming, and inference samples using the TDL SDK.
 
-This is a personal fork of [scpcom/LicheeSG-Nano-Build](https://github.com/scpcom/LicheeSG-Nano-Build)
 
 ## About the board
 
